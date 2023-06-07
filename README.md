@@ -2,10 +2,10 @@
 ##
 - Procuro trabalho na área de programação
 - Experiência profissional: Um ano e meio como auxiliar de estoque/logística
-- Formação acadêmica: Cursando a sétima edição do programa Full Stack  Web Developer - Growdev
+- Formação acadêmica: Cursando a décima sexta edição do programa Full Stack Web Developer - Growdev
 - Email de contato: monagabriel30@gmail.com
 - Hobbies: Jogar Vídeo Game e sair com amigos.
-- Linguagem Preferida: CSS
+- Linguagem Preferida: JavaScript
 
 <div align="center">
   <a href="https://github.com/Moon-Santos">
