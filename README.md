@@ -1,7 +1,7 @@
 ### Olá eu sou o Monã Santos e Tenho 19 anos
 ##
 - Procuro trabalho na área de programação
-- Experiência profissional: Um ano e meio como auxiliar de estoque/logística, e 1 ano como Representante Comercial.
+- Experiência profissional: Dois anos e dete meses como auxiliar de estoque/logística, e 1 ano como Representante Comercial.
 - Formação acadêmica: Cursando a décima sexta edição do programa Full Stack Web Developer - Growdev
 - Email de contato: monagabriel30@gmail.com
 - Hobbies: Jogar Vídeo Game e sair com amigos.
